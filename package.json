@@ -24,7 +24,7 @@
     "js-cookie": "^2.2.1",
     "jsdom": "^13.0.0",
     "jsplumb": "^2.12.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "vcolorpicker": "^0.1.8",
     "vue": "^2.6.10",
     "vue-contextmenu": "^1.5.10",
