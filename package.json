@@ -20,7 +20,7 @@
     "core-js": "^3.1.2",
     "html2canvas": "^1.0.0-rc.5",
     "jquery": "^3.4.1",
-    "jquery-ui": "^1.13.0",
+    "jquery-ui": "^1.13.2",
     "js-cookie": "^2.2.1",
     "jsdom": "^13.0.0",
     "jsplumb": "^2.12.3",
